@@ -35,7 +35,7 @@ When everything worked correctly, Payload.exe should be executed, displaying bas
 
 Compiled binaries with example payload:
 
-[![](http://bytecode77.com/public/fileicons/zip.png) ComponentServicesVolatileEnvironmentLPE.zip](https://bytecode77.com/downloads/ComponentServicesVolatileEnvironmentLPE.zip)
+[![](http://bytecode77.com/public/fileicons/zip.png) ComponentServicesVolatileEnvironmentLPE.zip](https://downloads.bytecode77.com/ComponentServicesVolatileEnvironmentLPE.zip)
 (**ZIP Password:** bytecode77)
 
 ## Project Page
